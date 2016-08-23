@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.rojo {
+	width: 200px;
+	height: 200px;
+	position: static;
+	background-color: #ee3e64;
+}
+.azul {
+	width: 200px;
+	height: 200px;
+	position: static;
+	background-color: #44accf;
+}
+.verde {
+	width: 200px;
+	height: 200px;
+	position: static;
+	background-color: #b7d84b;
+}
